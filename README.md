@@ -8,13 +8,17 @@
 * The purpose of the project is to refactor the existing code, and determine if the stock DAQO is a good investment. We would then look at the total daily volume and returns for DAQO in comparison with the rest of stocks to determine if a investment into DAQO is well justified. 
 
 ## Results
+
+### 2017
 * The following are the execution times of the original script before the refactoration for 2017. 
+
 
 ![2017_Original](Resources/2017_Original.png)
 * The following is execution time after the refactoration for 2017.
 
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
+### 2018
 * The following are the execution times of the original script before the refactoration for 2018. 
 
 ![2018_Original](Resources/2018_Original.png)
