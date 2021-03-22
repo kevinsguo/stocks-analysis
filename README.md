@@ -13,4 +13,4 @@
 ![2017 Original](Resources/2017 Original.png)
 * The following is execution time after the refactoration for 2017.
 
-![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+ align = "center" ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
