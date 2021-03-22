@@ -10,7 +10,7 @@
 ## Results
 * The following are the execution times of the original script before the refactoration for 2017. 
 
-![2017 Original](Resources/2017 Original.png)
+![2017_Original](Resources/2017_Original.png)
 * The following is execution time after the refactoration for 2017.
 
- align = "center" ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
