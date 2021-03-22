@@ -44,3 +44,6 @@ The following are the results for the stocks' analyzations for 2017 and 2018.
 ### Disadvantages of refactoring Code
 * Refactor would involve more logic to make the for-loop run efficiently, therefore programming time would take longer. 
 * Spacing and organization is crucial in organizing the code. 
+
+### Pros and Cons applying to refactoring the original VBA script
+* A noticeable pro
