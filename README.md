@@ -16,19 +16,17 @@ The following are the results for the stocks' analyzations for 2017 and 2018.
 ![2017_results](Resources/2017_results.png)
 ![2018_results](Resources/2018_results.png)
 
+For the previous results, DAQO stock was 
+
 ### 2017
 * The following are the execution times of the original script before the refactoration for 2017. 
 
 
 ![2017_Original](Resources/2017_Original.png)
-* The following is execution time after the refactoration for 2017.
-
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
 ### 2018
 * The following are the execution times of the original script before the refactoration for 2018. 
 
 ![2018_Original](Resources/2018_Original.png)
-* The following is execution time after the refactoration for 2017.
-
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
