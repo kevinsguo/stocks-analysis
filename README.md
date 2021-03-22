@@ -35,3 +35,12 @@ The following are the results for the stocks' analyzations for 2017 and 2018.
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
 * From the previous shown time, refactorization has drastically decreased the calculation time needed to perform the necessary results. Though both codes do result in a same answer, the refactored code used less than 1% of the time to compute compared to the original code. The drastic drop in computing time was a result of creating a for-loop through the data. 
+
+### Advantages of refactoring Code
+* One noticeable advantage is that it makes the code run more efficiently by taking fewer necessary steps. 
+* It is easier to understand for future modifications. 
+* Less computing memory is needed for the refactoring code. 
+
+### Disadvantages of refactoring Code
+* Refactor would involve more logic to make the for-loop run efficiently, therefore programming time would take longer. 
+* Spacing and organization is crucial in organizing the code. 
