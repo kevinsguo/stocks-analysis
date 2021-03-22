@@ -14,3 +14,10 @@
 * The following is execution time after the refactoration for 2017.
 
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+
+* The following are the execution times of the original script before the refactoration for 2018. 
+
+![2018_Original](Resources/2018_Original.png)
+* The following is execution time after the refactoration for 2017.
+
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
