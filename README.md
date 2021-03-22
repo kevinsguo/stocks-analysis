@@ -46,4 +46,5 @@ The following are the results for the stocks' analyzations for 2017 and 2018.
 * Spacing and organization is crucial in organizing the code. 
 
 ### Pros and Cons applying to refactoring the original VBA script
-* A noticeable pro
+* Advantage in applying refactoring to the original VBA was that it drastically reduced commuting times. Since more stocks needed to be analyzed, a refactorization was critical to run the calculation smoothly. Additionally, the same script can be used and modified to a broader range of applications, such as analyzing more stocks and their performances in additional years. Those additional calculations would greatly suffer if the original VBA script was used, as massive amount of memory would be required since the nest for-loop would need to computed thousands of additional lines compared to the refactored code. 
+* Disadvantage of refactoring the original VBA script would be the origanization and white space usage during the programming phase. The refactored code is a lot more time assuming in making compared to the original code. A lot more white space would also be needed to successfully correlate the for-loop, along with more notifications. This would make errors more frequent in write the code. 
