@@ -12,6 +12,7 @@
 ### DAQO Stock Performance for 2017 and 2018
 
 The following are the results for the stocks' analyzations for 2017 and 2018.
+
 ![2017_results](Resources/2017_results.png)
 ![2018_results](Resources/2018_results.png)
 
