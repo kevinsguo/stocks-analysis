@@ -9,5 +9,5 @@
 
 ## Results
 * The following are the execution times of the original script before the refactoration. 
-* ![VBA_Challenge_2017 Original](Resources/VBA_Challenge_2017 Original.png)
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 * 
